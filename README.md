@@ -241,12 +241,3 @@ DrowsyGuard/
 └── shape_predictor_68_face_landmarks.dat   # dlib 모델 (별도 다운로드)
 ```
 
----
-
-## 📜 라이선스
-
-MIT License
-
----
-
-> 💡 캡스톤 프로젝트 (2026)
