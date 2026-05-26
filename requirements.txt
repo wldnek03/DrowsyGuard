@@ -1,0 +1,28 @@
+# DrowsyGuard - Python 의존성
+# 라즈베리파이 5 + Python 3.13 환경 기준
+
+# 카메라 / 영상
+opencv-python>=4.8.0
+numpy>=1.24.0
+dlib>=19.24.0
+imutils>=0.5.4
+Pillow>=10.0.0
+
+# GPIO (라즈베리파이 5 호환)
+gpiozero>=2.0
+rpi-lgpio>=0.6
+lgpio>=0.2.2
+
+# I2C 센서
+smbus2>=0.4.0
+
+# OLED
+luma.oled>=3.13.0
+luma.core>=2.4.0
+
+# 웹 대시보드
+Flask>=3.0.0
+
+# 라즈베리파이 시스템 패키지 (apt로 설치)
+# - python3-picamera2
+# - python3-libcamera
